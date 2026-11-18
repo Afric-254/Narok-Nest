@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.data/
+oracleJdk-27/
+.env
+.env.*
+!.env.example
+
+.fake
